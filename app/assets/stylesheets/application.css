@@ -115,6 +115,11 @@ a {
   color: #7E0413;
 }
 
+.post-date {
+  margin-top: -10px;
+  float: right;
+}
+
 #buttons1 {
   display: flex;
   justify-content: space-around;

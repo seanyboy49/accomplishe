@@ -4,7 +4,8 @@
 <% @power_posts.each do |post| %>
 <div class="story_body_container">
 	<p class="post-content"><%= post.content %></p>
-  <img class="tag" src="/assets/tag.png" alt="tag" />
+	<img class="tag" src="/assets/tag.png" alt="tag" />
 	<p class= "tag-name"><%= post.tag.name.capitalize %></p>
+	<p class="post-date"><%= local_date(post) %></p>
 </div>
 <% end %>

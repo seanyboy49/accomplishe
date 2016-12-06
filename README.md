@@ -1,4 +1,5 @@
-# SF LADY PROBLEMS HACKATHON 2016
+# WINNER – SF LADY PROBLEMS HACKATHON 2016 (3rd Place)
+Accomplishe is an app that helps women track their moments of success, power, and growth in the workplace so that they have a clear sense of what they bring to the table and feel more confident advocating for themselves.
 
 ## The Problem
 
@@ -14,3 +15,17 @@ Our team decided to build Accomplishe, an app that helps women track their momen
 
 ## The Blurb
 Accomplishe is an app that helps women track their moments of success, power, and growth in the workplace so that they have a clear sense of what they bring to the table and feel more confident advocating for themselves.
+![Accomplishe Home Page](http://i.imgur.com/9ciKNqE.jpg)
+## Contributors
+Ellie Dori, Sean Lee, Rachel Colby, Kim Allen
+
+## Technologies
+  * Ruby
+  * Rails 5.0.0
+  * PostgreSQL
+  * JQuery
+
+## Future Features
+  * Login
+  * Scheduling of inspirational text messages
+  * API retrieval of inspirational images and quotes

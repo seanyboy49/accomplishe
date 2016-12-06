@@ -5,5 +5,7 @@
 	<p class="post-content"><%= post.content %></p>
   <img class="tag" src="/assets/tag.png" alt="tag" />
 	<p class= "tag-name"><%= post.tag.name.capitalize %></p>
+	<p class="post-date"><%= local_date(post) %></p>
+
 </div>
 <% end %>
